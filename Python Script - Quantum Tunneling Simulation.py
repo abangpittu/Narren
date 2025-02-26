@@ -138,4 +138,4 @@ print(f"Probability in Barrier: {prob_barrier:.4f}")
 print(f"Other Probabilities (should be negligible): {prob_other:.4e}")
 print(f"Total Probability: {total_prob:.6f}")
 
-""" By Narrendharan Elemaran | 2311510/1 | SQA7018 """
+""" By Narrendharan Elemaran
