@@ -1,10 +1,10 @@
-### **🛠️ Narrendharan's Projects Repository**  
+🛠️ **Narrendharan's Projects Repository**  
 
 Welcome to my personal and work-related projects repository! This space serves as a collection of my coding experiments, work-related projects, and technical explorations.  
 
 ---
 
-## **📌 About This Repository**  
+📌 **About This Repository**  
 This repository includes:  
 ✔️ **Personal Coding Projects** – Explorations in Python, Java, ML, and other technologies.  
 ✔️ **Work-Related Projects** – Scripts, automation, and technical documentation related to my professional work.  
@@ -13,7 +13,7 @@ This repository includes:
 
 ---
 
-## **📂 Project Structure**  
+📂 **Project Structure**  
 ```
 📦 MyProjectsRepo  
  ┣ 📂 personal-projects  
@@ -33,18 +33,18 @@ This repository includes:
 
 ```  
 
-## **🚀 Technologies Used**  
+🚀 **Technologies Used**  
 - **Programming Languages**: Python, Java, JavaScript, etc.  
 - **Tools & Frameworks**: NumPy, Pandas, Flask, React, Minitab, JMP.  
 - **Research & Engineering**: MATLAB, COMSOL, LabVIEW, etc.  
 
 ---
 
-## **📢 Contributions & Usage**  
+📢 **Contributions & Usage**  
 Since this is a personal/work-related repository, external contributions might not be open. However, feel free to explore the code, suggest improvements, or discuss ideas!  
 
 ---
 
-## **📞 Contact & Connect**  
+📞 **Contact & Connect**  
 💼 **LinkedIn**: www.linkedin.com/in/narrendharanelemaran 
 📧 **Email**: enarren@gmail.com
